@@ -30,9 +30,20 @@ R, Shiny, shinydashboard, plotly, DT, dplyr, tidyr
 3. Run shiny::runApp()
 
 ## What I found
-1. ___
-2. ___
-3. ___
+1. Students who completed the test preparation course scored higher in all
+   three subjects (math, reading and writing) than students who did not.
+2. Students with a standard lunch scored higher on average than students
+   with a free/reduced lunch.
+3. Students whose parents have a higher education level (bachelor's or
+   master's degree) tend to score higher than students whose parents
+   finished only high school.
+4. Female students scored higher in reading and writing, while male
+   students scored slightly higher in math.
+5. Reading and writing scores are very strongly related (correlation above
+   0.9), and math is also strongly related to both (above 0.8).
+
+These are patterns in this dataset and do not prove cause and effect. For
+example, lunch type may reflect family income, not lunch itself.
 
 Project done by Kayalvizhi Thiyagarajan
 BCA (Artificial Intelligence and Data Science)
